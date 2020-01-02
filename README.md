@@ -1,6 +1,6 @@
 <img align="right" width="100" src="https://aliyun.oss.dtapp.net/public/hao/images/ico.png" alt="EasyWeChat Logo"/>
 
-<h1 align="left"><a href="https://www.dtapp.net/">Timer</a></h1>
+<h1 align="left"><a href="https://www.dtapp.net/">Timer助手</a></h1>
 
 📦 时间助手PHP扩展包
 
