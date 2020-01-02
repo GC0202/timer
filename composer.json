@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Timer\\": "src"
+      "DtApp\\Timer\\": "src"
     }
   },
   "repositories": {

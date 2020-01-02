@@ -3,7 +3,7 @@
  * (c) Chaim <gc@dtapp.net>
  */
 
-namespace Timer;
+namespace DtApp\Timer;
 
 class Time
 {
