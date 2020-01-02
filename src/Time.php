@@ -5,13 +5,13 @@
 
 namespace DtApp\Timer;
 
+/**
+ * 时间
+ * Class Time
+ * @package DtApp\Timer
+ */
 class Time
 {
-    public function __construct()
-    {
-        date_default_timezone_set('Asia/Shanghai');
-    }
-
     /**
      * 当前时间
      * @param string $format 格式
