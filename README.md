@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://aliyun.oss.dtapp.net/public/hao/images/ico.png" alt="EasyWeChat Logo"/>
+<img align="right" width="100" src="https://aliyun.oss.dtapp.net/public/hao/images/ico.png" alt="dtApp Logo"/>
 
 <h1 align="left"><a href="https://www.dtapp.net/">Timer助手</a></h1>
 
@@ -16,17 +16,17 @@
 ## 安装
 
 ```text
-composer require liguangchun/timer
+composer require liguangchun/timer -vvv
 ```
 
 ## 更新
 
 ```text
-composer update liguangchun/timer
+composer update liguangchun/timer -vvv
 ```
 
 ## 删除
 
 ```text
-composer remove liguangchun/timer
+composer remove liguangchun/timer -vvv
 ```
