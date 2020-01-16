@@ -6,8 +6,7 @@
 namespace DtApp\Timer;
 
 /**
- * 时间
- * Class Time
+ * 入口
  * @package DtApp\Timer
  */
 class Time
